@@ -6,4 +6,4 @@ an shell script that will commit the code of this repo everyday if you want comm
 2. git clone this repo into your running machine like `pi`
 3. execute the `install.sh` 
 
-ok ,your github
+ok , your github will be committed everyday once the running machine is not down.
